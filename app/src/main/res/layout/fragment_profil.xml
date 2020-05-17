@@ -12,6 +12,7 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:text="Profil Fragment"
+        android:textColor="@color/colorPrimary"
         android:textSize="40sp" />
 
 
